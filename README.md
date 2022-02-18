@@ -1,5 +1,5 @@
 ### Hello 🐍
-I'm a software engineer based in New York with experience in machine learning, data science, and distributed systems. Some of the projects I've worked on involve computer vision, natural language processing, and brain-computer interfaces.
+I'm a software engineer with experience in machine learning, data science, and distributed systems. Some of the projects I've worked on involve computer vision, natural language processing, and brain-computer interfaces.
 
 ## Selected Projects
 ⭐️ [**TensorBlur**](https://github.com/gabrielibagon/TensorBlur): Efficient GPU-accelerated blurring layers for Tensorflow graphs.
